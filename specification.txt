@@ -1,0 +1,8 @@
+**Specification**
+
+Flash Chip  
+Winbond W25Q32JVSSIQ
+Memory:32M-bits(4M-Bytes)
+Clock Frequency:133 MHz
+Mounting Type:Surface Mount
+--Read more in  W25Q32JVSSIQ-datasheet.pdf"---

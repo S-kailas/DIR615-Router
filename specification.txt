@@ -6,3 +6,8 @@ Memory:32M-bits(4M-Bytes)
 Clock Frequency:133 MHz
 Mounting Type:Surface Mount
 --Read more in  W25Q32JVSSIQ-datasheet.pdf"---
+
+Main Memory 
+Etron Technology EM6AA160TSE-5G
+Memory:16M-bytes
+---Read more in "EM6AA160TSA-5G.pdf"--

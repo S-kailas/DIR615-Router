@@ -15,17 +15,17 @@ note: ice_bite: hardware hacking tools developed by IOT-PS
 they also develped an os
 
 
-Understand the chips ,
-what chips you should look around first
+Understand the chip ,
+what chip you should look around first
 
 
 search with "model name" "hardware version" "schematics"
 
 
-""collect all the datasheets(shematics) chips over the board""
+""collect all the datasheets(shematics) chip over the board""
 
 
-8pin chips will hold eprom (firmware might be there)
+8pin chip will hold eprom (firmware might be there)
 
 TP touch points (open points)-points which are exposed
 
@@ -59,7 +59,7 @@ Tranformer-T
 
 
 
-chips are coming with encryption
+chip are coming with encryption
 
 UART-pins , RX might be shoted using a 0 ohms resistor , so that intruder can send commands through serial monitor
 
@@ -91,7 +91,7 @@ THE five Interfaces
 -SWD
 -SPIC
 
-Note: Talcum powder hack to read chips model name when it is hard to read
+Note: Talcum powder hack to read chip's model name when it is hard to read
 
 
 UART
